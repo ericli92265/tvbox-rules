@@ -120,10 +120,10 @@ payload:
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-SUFFIX,bf8bf.com
   - DOMAIN-SUFFIX,douban.com
-  - DOMAIN-SUFFIX,bfvvs.com,DIRECT #TVBOX
-  - DOMAIN-SUFFIX,ymuuy.com,DIRECT #TVBOX
-  - DOMAIN-SUFFIX,gugu3.com,DIRECT #TVBOX
-  - DOMAIN-SUFFIX,rongjuwh.cn,DIRECT #TVBOX
+  - DOMAIN-SUFFIX,bfvvs.com
+  - DOMAIN-SUFFIX,ymuuy.com
+  - DOMAIN-SUFFIX,gugu3.com
+  - DOMAIN-SUFFIX,rongjuwh.cn
   - DOMAIN-SUFFIX,whjzjx.cn
   - DOMAIN-SUFFIX,yximgs.com
   - DOMAIN-SUFFIX,lz-cdn3.com
@@ -145,7 +145,7 @@ payload:
   - DOMAIN-SUFFIX,wujinpp.com
   - DOMAIN-SUFFIX,picbf.com
   - DOMAIN-SUFFIX,360kan.com
-  - DOMAIN-SUFFIX,yxzyzxw.cn:
+  - DOMAIN-SUFFIX,yxzyzxw.cn
   - DOMAIN-SUFFIX,ziziys.org
   - DOMAIN-SUFFIX,247kan.com
   - DOMAIN-SUFFIX,bcebos.com
