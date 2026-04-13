@@ -1,4 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,bttwo.org
+  - DOMAIN,xiaocge.fun
+  - DOMAIN-SUFFIX,seedhub.cc
+  - DOMAIN-SUFFIX,yylx.win
+  - DOMAIN-SUFFIX,muou.site
+  - DOMAIN-SUFFIX,muou.asia
+  - DOMAIN-SUFFIX,4c44.com
   - DOMAIN-SUFFIX,dytt-tvs.com
   - DOMAIN-SUFFIX,fanchenstatic.com
   - DOMAIN-SUFFIX,cfkj86.com
@@ -64,6 +71,7 @@ payload:
   - DOMAIN,mihdr.top
   - DOMAIN,2xiaopan.fun
   - DOMAIN,gh-proxy.net
+  - DOMAIN,gh-proxy.com
   - DOMAIN,panso.pro
   - DOMAIN,misopan.fun
   - DOMAIN,www.pansearch.me
