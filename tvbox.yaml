@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,dytt-tvs.com
   - DOMAIN-SUFFIX,ppvod01.blbtgg.com
   - DOMAIN-SUFFIX,fanchenstatic.com
   - DOMAIN-SUFFIX,cfkj86.com
@@ -65,8 +66,8 @@ payload:
   - DOMAIN,2xiaopan.fun
   - DOMAIN,gh-proxy.net
   - DOMAIN,panso.pro
+  - DOMAIN,misopan.fun
   - DOMAIN,www.pansearch.me
-  - DOMAIN,www.libvio.cc
   - DOMAIN,www.wogg.net
   - DOMAIN,www.muoupan.top
   - DOMAIN,www.czzyvideo.com
@@ -87,7 +88,6 @@ payload:
   - DOMAIN-SUFFIX,gitmirror.com
   - DOMAIN-SUFFIX,ryplay11.com
   - DOMAIN-SUFFIX,hls.one
-  - DOMAIN,libvio.pro
   - DOMAIN,tvbox-mv.cyao.eu.org
   - DOMAIN,ddys.pro
   - DOMAIN,www.kuqimv.com
@@ -98,6 +98,7 @@ payload:
   - DOMAIN,www.subaibaiys.com
   - DOMAIN-KEYWORD,wogg
   - DOMAIN-KEYWORD,huohua
+  - DOMAIN-KEYWORD,libvio
   - DOMAIN-SUFFIX,dytt-look.com
   - DOMAIN-SUFFIX,lbys.app
   - DOMAIN-SUFFIX,xn--789-2f0fs81f34x.com
@@ -115,7 +116,6 @@ payload:
   - DOMAIN-SUFFIX,jszdzs.com
   - DOMAIN-SUFFIX,cdn.yun.cn
   - DOMAIN-SUFFIX,xqkk.app
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-SUFFIX,bf8bf.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,bfvvs.com
