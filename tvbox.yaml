@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,api.wsyzy.net
   - DOMAIN-SUFFIX,dyttzyapi.com
   - DOMAIN-SUFFIX,bttwo.org
   - DOMAIN,xiaocge.fun
