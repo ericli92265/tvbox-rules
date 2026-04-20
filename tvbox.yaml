@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,misoso.shop
   - DOMAIN,api.wsyzy.net
   - DOMAIN-SUFFIX,dyttzyapi.com
   - DOMAIN-SUFFIX,bttwo.org
