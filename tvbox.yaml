@@ -3,7 +3,10 @@ payload:
   - DOMAIN,api.wsyzy.net
   - DOMAIN-SUFFIX,i3ei.com
   - DOMAIN-SUFFIX,au1080.com
+  - DOMAIN-SUFFIX,rrmj.plus
   - DOMAIN-SUFFIX,dytt-video.com
+  - DOMAIN-SUFFIX,dytt-kan.com
+  - DOMAIN-SUFFIX,dytt-img.com
   - DOMAIN-SUFFIX,dyttzyapi.com
   - DOMAIN-SUFFIX,bttwo.org
   - DOMAIN,xiaocge.fun
