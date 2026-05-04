@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,misoso.shop
   - DOMAIN,api.wsyzy.net
+  - DOMAIN-SUFFIX,i3ei.com
   - DOMAIN-SUFFIX,au1080.com
   - DOMAIN-SUFFIX,dytt-video.com
   - DOMAIN-SUFFIX,dyttzyapi.com
