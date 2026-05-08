@@ -1,6 +1,8 @@
 payload:
   - DOMAIN,misoso.shop
   - DOMAIN,api.wsyzy.net
+  - DOMAIN-SUFFIX,84jia.com
+  - DOMAIN-SUFFIX,hxcztech.com
   - DOMAIN-SUFFIX,wki8.com
   - DOMAIN-SUFFIX,ffzy-play10.com
   - DOMAIN-SUFFIX,i3ei.com
