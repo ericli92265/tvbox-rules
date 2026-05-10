@@ -2,7 +2,9 @@ payload:
   - DOMAIN,misoso.shop
   - DOMAIN,api.wsyzy.net
   - DOMAIN,tophub.today
+  - DOMAIN,dbzy5.com
   - DOMAIN-SUFFIX,tfdh.top
+  - DOMAIN-SUFFIX,doubanic.com
   - DOMAIN-SUFFIX,jiexicn.top
   - DOMAIN-SUFFIX,qiteck.top
   - DOMAIN-SUFFIX,84jia.com
