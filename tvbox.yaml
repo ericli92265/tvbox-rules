@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,misoso.shop
   - DOMAIN,api.wsyzy.net
+  - DOMAIN,tophub.today
   - DOMAIN-SUFFIX,tfdh.top
   - DOMAIN-SUFFIX,jiexicn.top
   - DOMAIN-SUFFIX,qiteck.top
